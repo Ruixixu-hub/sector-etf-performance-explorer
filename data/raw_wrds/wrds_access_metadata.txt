@@ -1,0 +1,11 @@
+WRDS ETF Access Metadata
+========================
+Access date: 2026-04-23
+Date range: 2021-01-01 to 2025-12-31
+Requested ETFs: XLK, XLE, XLF, XLV, XLI, XLP
+Identifier tickers found: XLE, XLF, XLI, XLK, XLP, XLV
+Daily price tickers found: XLE, XLF, XLI, XLK, XLP, XLV
+Permnos used: 86454, 86455, 86456, 86457, 86452, 86451
+Identifier rows saved: 12
+Daily price rows saved: 7530
+Duplicate permno-date rows in raw extract: 0

@@ -1,0 +1,7 @@
+ETF,ETF_Display_Name,Representative_Stock_Ticker,Representative_Company_Name,Why_Selected,Start_Date,End_Date,Observations,Final_Cumulative_Return,Annualized_Volatility,Max_Drawdown
+XLE,XLE (Energy),XOM,EXXON MOBIL CORP,Representative large-cap energy stock,2021/1/4,2025/12/31,1255,2.573344593027374,0.2701137718850863,-0.205086933
+XLF,XLF (Financials),JPM,JPMORGAN CHASE & CO,Representative large-cap financial stock,2021/1/4,2025/12/31,1255,1.8886402159882323,0.24265160034968863,-0.387505656
+XLI,XLI (Industrials),CAT,CATERPILLAR INC,Representative large-cap industrial stock,2021/1/4,2025/12/31,1255,2.461219859183403,0.2927460686616769,-0.340552716
+XLK,XLK (Technology),NVDA,NVIDIA CORP,Representative large-cap technology stock,2021/1/4,2025/12/31,1255,13.325038491135398,0.522037045918472,-0.663352573
+XLP,XLP (Consumer Staples),PG,PROCTER & GAMBLE CO,Representative consumer staples stock,2021/1/4,2025/12/31,1255,0.16761996592746642,0.17272222063342596,-0.237726896
+XLV,XLV (Health Care),LLY,LILLY ELI & CO,Representative large-cap health care stock,2021/1/4,2025/12/31,1255,5.70571936036775,0.3195649371966455,-0.344703775

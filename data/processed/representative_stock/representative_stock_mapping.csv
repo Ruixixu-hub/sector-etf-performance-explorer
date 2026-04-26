@@ -1,0 +1,7 @@
+ETF,ETF_Display_Name,Sector,Representative_Stock_Ticker,Representative_Company_Name,Why_Selected,Permno,Permco,Security_Type,Security_Subtype,Share_Type,Name_Start_Date,Name_End_Date,Security_Begin_Date,Security_End_Date,Primary_Exchange
+XLE,XLE (Energy),Energy,XOM,EXXON MOBIL CORP,Representative large-cap energy stock,11850,20678,EQTY,COM,NS,2024-07-01,2025-12-31,1925-12-31,2025-12-31,N
+XLF,XLF (Financials),Financials,JPM,JPMORGAN CHASE & CO,Representative large-cap financial stock,47896,20436,EQTY,COM,NS,2016-08-04,2025-12-31,1969-03-05,2025-12-31,N
+XLI,XLI (Industrials),Industrials,CAT,CATERPILLAR INC,Representative large-cap industrial stock,18542,20408,EQTY,COM,NS,2016-12-08,2025-12-31,1929-12-02,2025-12-31,N
+XLK,XLK (Technology),Technology,NVDA,NVIDIA CORP,Representative large-cap technology stock,86580,16382,EQTY,COM,NS,2014-02-13,2025-12-31,1999-01-22,2025-12-31,Q
+XLP,XLP (Consumer Staples),Consumer Staples,PG,PROCTER & GAMBLE CO,Representative consumer staples stock,18163,21446,EQTY,COM,NS,2021-04-14,2025-12-31,1929-08-12,2025-12-31,N
+XLV,XLV (Health Care),Health Care,LLY,LILLY ELI & CO,Representative large-cap health care stock,50876,21102,EQTY,COM,NS,1970-07-09,2025-12-31,1970-07-09,2025-12-31,N

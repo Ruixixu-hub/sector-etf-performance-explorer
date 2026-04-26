@@ -1,0 +1,29 @@
+ETF Price Cleaning Summary
+==========================
+Final ETF universe: XLE, XLF, XLI, XLK, XLP, XLV
+Rows in clean ETF file: 7530
+Rows in metrics-ready ETF file: 7530
+Rows in ETF summary file: 6
+Duplicate ticker-date rows: 0
+
+Coverage summary:
+              min        max  count
+Ticker                             
+XLE    2021-01-04 2025-12-31   1255
+XLF    2021-01-04 2025-12-31   1255
+XLI    2021-01-04 2025-12-31   1255
+XLK    2021-01-04 2025-12-31   1255
+XLP    2021-01-04 2025-12-31   1255
+XLV    2021-01-04 2025-12-31   1255
+
+Missing values by column:
+Permno    0
+Ticker    0
+Date      0
+Open      0
+High      0
+Low       0
+Close     0
+Price     0
+Return    0
+Volume    0

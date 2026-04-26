@@ -1,0 +1,58 @@
+Holdings Cleaning Summary
+========================
+ETFs found: XLE, XLF, XLI, XLK, XLP, XLV
+Rows in full holdings file: 364
+Rows in top-10 holdings file: 60
+
+Full holdings row counts by ETF:
+ETF
+XLE    25
+XLF    80
+XLI    82
+XLK    76
+XLP    39
+XLV    62
+
+Top-10 row counts by ETF:
+ETF
+XLE    10
+XLF    10
+XLI    10
+XLK    10
+XLP    10
+XLV    10
+
+Weight sums by ETF:
+ETF
+XLE    99.978542
+XLF    99.922853
+XLI    99.967694
+XLK    99.976111
+XLP    99.842979
+XLV    99.890731
+
+Missing values in holdings_all_clean.csv:
+ETF               0
+Fund_Name         0
+Holdings_As_Of    0
+Holding_Name      0
+Holding_Ticker    0
+Identifier        0
+SEDOL             0
+Weight            0
+Sector            0
+Shares_Held       0
+Local_Currency    0
+
+Missing values in holdings_top10.csv:
+ETF               0
+Fund_Name         0
+Holdings_As_Of    0
+Holding_Name      0
+Holding_Ticker    0
+Identifier        0
+SEDOL             0
+Weight            0
+Sector            0
+Shares_Held       0
+Local_Currency    0

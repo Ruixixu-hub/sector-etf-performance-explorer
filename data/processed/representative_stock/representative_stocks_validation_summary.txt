@@ -1,0 +1,26 @@
+Representative Stocks Validation Summary
+========================================
+
+Representative stock mapping:
+ETF       ETF_Display_Name           Sector Representative_Stock_Ticker Representative_Company_Name                               Why_Selected  Permno  Permco Security_Type Security_Subtype Share_Type Name_Start_Date Name_End_Date Security_Begin_Date Security_End_Date Primary_Exchange
+XLE           XLE (Energy)           Energy                         XOM            EXXON MOBIL CORP      Representative large-cap energy stock   11850   20678          EQTY              COM         NS      2024-07-01    2025-12-31          1925-12-31        2025-12-31                N
+XLF       XLF (Financials)       Financials                         JPM         JPMORGAN CHASE & CO   Representative large-cap financial stock   47896   20436          EQTY              COM         NS      2016-08-04    2025-12-31          1969-03-05        2025-12-31                N
+XLI      XLI (Industrials)      Industrials                         CAT             CATERPILLAR INC  Representative large-cap industrial stock   18542   20408          EQTY              COM         NS      2016-12-08    2025-12-31          1929-12-02        2025-12-31                N
+XLK       XLK (Technology)       Technology                        NVDA                 NVIDIA CORP  Representative large-cap technology stock   86580   16382          EQTY              COM         NS      2014-02-13    2025-12-31          1999-01-22        2025-12-31                Q
+XLP XLP (Consumer Staples) Consumer Staples                          PG         PROCTER & GAMBLE CO      Representative consumer staples stock   18163   21446          EQTY              COM         NS      2021-04-14    2025-12-31          1929-08-12        2025-12-31                N
+XLV      XLV (Health Care)      Health Care                         LLY              LILLY ELI & CO Representative large-cap health care stock   50876   21102          EQTY              COM         NS      1970-07-09    2025-12-31          1970-07-09        2025-12-31                N
+
+Representative stock summary:
+ETF       ETF_Display_Name Representative_Stock_Ticker Representative_Company_Name                               Why_Selected Start_Date   End_Date  Observations  Final_Cumulative_Return  Annualized_Volatility  Max_Drawdown
+XLE           XLE (Energy)                         XOM            EXXON MOBIL CORP      Representative large-cap energy stock 2021-01-04 2025-12-31          1255                 2.573345               0.270114     -0.205087
+XLF       XLF (Financials)                         JPM         JPMORGAN CHASE & CO   Representative large-cap financial stock 2021-01-04 2025-12-31          1255                 1.888640               0.242652     -0.387506
+XLI      XLI (Industrials)                         CAT             CATERPILLAR INC  Representative large-cap industrial stock 2021-01-04 2025-12-31          1255                 2.461220               0.292746     -0.340553
+XLK       XLK (Technology)                        NVDA                 NVIDIA CORP  Representative large-cap technology stock 2021-01-04 2025-12-31          1255                13.325038               0.522037     -0.663353
+XLP XLP (Consumer Staples)                          PG         PROCTER & GAMBLE CO      Representative consumer staples stock 2021-01-04 2025-12-31          1255                 0.167620               0.172722     -0.237727
+XLV      XLV (Health Care)                         LLY              LILLY ELI & CO Representative large-cap health care stock 2021-01-04 2025-12-31          1255                 5.705719               0.319565     -0.344704
+
+Representative stock validation checks:
+Status                                                                Check
+  Pass          Representative stock mapping contains all 6 ETF-stock pairs
+  Pass Representative stock clean file has no duplicate ETF-stock-date rows
+  Pass                       Representative stock summary covers all 6 ETFs

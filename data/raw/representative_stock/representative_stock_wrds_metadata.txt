@@ -1,0 +1,10 @@
+WRDS Representative Stock Access Metadata
+========================================
+Access date: 2026-04-23
+Date range: 2021-01-01 to 2025-12-31
+Representative stock tickers: CAT, JPM, LLY, NVDA, PG, XOM
+Daily price tickers found: CAT, JPM, LLY, NVDA, PG, XOM
+Permnos used: 11850, 47896, 18542, 86580, 18163, 50876
+Identifier rows saved: 26
+Daily price rows saved: 7530
+Duplicate permno-date rows in raw extract: 0

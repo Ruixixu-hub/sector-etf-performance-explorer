@@ -1,0 +1,26 @@
+Final Processed Data Validation Summary
+=====================================
+
+Validation checks:
+Status                                                                Check  Result
+  Pass                                   ETF clean file contains all 6 ETFs    True
+  Pass                     ETF clean file has no duplicate ticker-date rows    True
+  Pass                                        ETF summary covers all 6 ETFs    True
+  Pass                                    Holdings file contains all 6 ETFs    True
+  Pass                             Top-10 holdings file has 10 rows per ETF    True
+  Pass          Representative stock mapping contains all 6 ETF-stock pairs    True
+  Pass Representative stock clean file has no duplicate ETF-stock-date rows    True
+  Pass                       Representative stock summary covers all 6 ETFs    True
+  Pass                              All app-dependent processed files exist    True
+
+File inventory:
+                                                                       File  Rows  Columns
+                                        data/processed/etf_prices_clean.csv  7530       10
+                                data/processed/etf_prices_metrics_ready.csv  7530       14
+                                     data/processed/etf_metrics_summary.csv     6        7
+                                      data/processed/holdings_all_clean.csv   364       11
+                                          data/processed/holdings_top10.csv    60       11
+       data/processed/representative_stock/representative_stock_mapping.csv     6       16
+        data/processed/representative_stock/representative_stocks_clean.csv  7530       15
+data/processed/representative_stock/representative_stocks_metrics_ready.csv  7530       19
+      data/processed/representative_stock/representative_stocks_summary.csv     6       11
