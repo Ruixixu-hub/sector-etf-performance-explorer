@@ -2,7 +2,7 @@
 
 ## Quick Links
 - Demo video: `https://video.xjtlu.edu.cn/Mediasite/Play/3e6cbfb2a6d944a6aba30fd584be40bb1d`
-- Streamlit product: `<add Streamlit app link here>`
+- Streamlit product: `https://sector-etf-performance-explorer.streamlit.app/`
 
 ## Project overview
 **Sector ETF Performance Explorer** is an interactive Streamlit tool that helps users compare how major U.S. market sectors behaved over time through sector ETFs. It is designed for **beginner investors** who need a clearer way to read historical sector behaviour and **finance students** who want a practical way to connect portfolio concepts to real data.
@@ -211,7 +211,7 @@ The notebook uses the holdings Excel files in `data/raw_holdings/` as inputs for
 
 ## 7. Demo and Access
 - **Demo video link:** `https://video.xjtlu.edu.cn/Mediasite/Play/3e6cbfb2a6d944a6aba30fd584be40bb1d`
-- **Streamlit product link:** `<add Streamlit app link here>`
+- **Streamlit product link:** `https://sector-etf-performance-explorer.streamlit.app/`
 
 If the app is not available, the project can still be fully viewed locally by running:
 
@@ -236,12 +236,5 @@ streamlit run app.py
 - deploy a polished public version with permanent product and demo links.
 
 ---
-
-## 9. Submission note
-This repository is structured so that a marker can:
-- run the app locally from the root folder;
-- inspect the notebook workflow from data access to final output;
-- trace how processed files are used by the product;
-- understand the problem, methods, findings, and reproduction steps from this README.
 
 The project is intended for **educational sector comparison and historical analysis**, not investment advice.
