@@ -125,12 +125,14 @@ The full analytical workflow is documented in [`notebook.ipynb`](notebook.ipynb)
 
 ---
 
-## 4. Key findings
-- **XLE (Energy)** delivered the strongest cumulative return over the project period, at approximately **184.7%**.
-- **XLP (Consumer Staples)** showed the **lowest annualized volatility** and the **shallowest drawdown**, giving the most defensive historical profile among the six ETFs.
-- **XLK (Technology)** performed strongly but still experienced the **deepest maximum drawdown**, showing that volatility and downside severity did not rank in exactly the same way across sectors.
-- Correlation results show that some sector pairs moved much more similarly than others, so sector selection affects **diversification potential**, not only return.
-- Representative stock comparisons show that a large company may reflect part of a sector story, but the ETF usually provides a smoother risk profile because it spreads firm-specific shocks across multiple holdings.
+## 4. Key Findings
+These findings are specific to the selected historical window (**2021–2025**) and are intended for comparison and interpretation rather than prediction.
+
+- **XLE (Energy)** delivered the strongest cumulative return over the selected period, at approximately **184.7%**, while also showing the **highest annualized volatility**.
+- Risk did not move in only one way across sectors: although **XLE** was the most volatile on average, **XLK (Technology)** experienced the **deepest maximum drawdown**. This shows that volatility and downside severity did not rank in exactly the same way.
+- **XLP (Consumer Staples)** recorded the **lowest annualized volatility** and the **shallowest drawdown**, giving the most defensive historical profile among the six ETFs.
+- Correlation results showed that some sector pairs moved much more similarly than others. This means sector selection affected not only return patterns, but also how concentrated a portfolio became in one type of market behaviour.
+- Representative stock comparisons showed that even a large, familiar company did not fully represent the behaviour of a diversified sector ETF. The ETF generally provided a smoother historical profile because it spread company-specific shocks across multiple holdings.
 
 ---
 
